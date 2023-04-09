@@ -9,33 +9,33 @@
     "start_url": "/",
     "icons": [
       {
-        "src": "icons/72.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/72.png",
         "sizes": "72x72",
         "type": "image/png"
       },
       
       {
-        "src": "icons/128.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/128.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "icons/144.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/144.png",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "icons/152.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/152.png",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "icons/196.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/196.png",
         "sizes": "196x196",
         "type": "image/png"
       },
       {
-        "src": "icons/512.png",
+        "src": "https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
