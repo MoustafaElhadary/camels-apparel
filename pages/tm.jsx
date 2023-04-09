@@ -55,11 +55,11 @@ export default function Example() {
 
               <div className="flex flex-col text-right">
                 <span className="font-semibold text-xs text-blue-300 ">
-                  7:30 PM
+                  6:00 PM
                 </span>
                 <span className=" font-normal text-2xl  text-white ">
                   {' '}
-                  Nov 1,2021
+                  Apr 8,2023
                 </span>
               </div>
             </div>
@@ -70,10 +70,10 @@ export default function Example() {
             <div className="flex flex-col text-left p-4">
               <div className="flex flex-col text-left">
                 <span className=" font-light  text-blue-300 uppercase">
-                  Madison Square Garden
+                  KASEYA CENTER (FORMERLY KNOWN AS MIAMI-DADE ARENA)
                 </span>
                 <span className=" font-light   text-white ">
-                  New York Knicks vs Toronto Raptors
+                  UFC 287 Miami
                 </span>
               </div>
               <div className="flex flex-row text-left justify-between  pt-2">
@@ -82,7 +82,7 @@ export default function Example() {
                     Section
                   </span>
                   <span className=" font-light uppercase   text-white ">
-                    220
+                    105
                   </span>
                 </div>
                 <div className="flex flex-col text-left">
@@ -105,7 +105,7 @@ export default function Example() {
                   Entry Info
                 </span>
                 <span className=" font-light   text-white uppercase">
-                  Enter 31ST/8th
+                  UPPER LEVEL
                 </span>
               </div>
 
