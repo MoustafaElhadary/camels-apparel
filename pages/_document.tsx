@@ -17,13 +17,13 @@ class MyDocument extends Document {
 
         <link rel="manifest" href="/manifest.json" />
         <link
-          href="/icons/16.png"
+          href="https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/16.png"
           rel="icon"
           type="image/png"
           sizes="16x16"
         />
         <link
-          href="/icons/32.png"
+          href="https://raw.githubusercontent.com/Tawwr/portal/main/public/icons/32.png"
           rel="icon"
           type="image/png"
           sizes="32x32"
