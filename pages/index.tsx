@@ -103,7 +103,7 @@ export default function HomePage() {
                   </div>
 
                   <a
-                    href="#"
+                    href="/tm"
                     className="inline-block text-center bg-black border border-transparent rounded-md py-3 px-8 font-medium text-white hover:bg-black"
                   >
                     Shop Collection
@@ -153,7 +153,7 @@ export default function HomePage() {
                   </div>
 
                   <h3 className="mt-4 text-base font-semibold text-gray-900">
-                    <Link href={`product/${product.handle}`}>
+                    <Link href={`/tm`}>
                       <a>
                         <span className="absolute inset-0" />
                         {product.title}
@@ -193,7 +193,7 @@ export default function HomePage() {
 
             <div className="mt-6 sm:hidden">
               <a
-                href="#"
+                href="/tm"
                 className="block text-sm font-semibold text-black hover:text-black"
               >
                 Browse all favorites<span aria-hidden="true"> &rarr;</span>
