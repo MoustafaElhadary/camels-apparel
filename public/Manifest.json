@@ -1,0 +1,44 @@
+{
+    "name": "TM moustafa Elhadary Pass",
+    "short_name": "TM Pass",
+    "theme_color": "#ffffff",
+    "background_color": "#004740",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "icons/72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      
+      {
+        "src": "icons/128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
