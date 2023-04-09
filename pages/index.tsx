@@ -102,12 +102,16 @@ export default function HomePage() {
                     </div>
                   </div>
 
-                  <a
-                    href="/tm"
+<Link href={`/tm`}>
+                      <a
+               
                     className="inline-block text-center bg-black border border-transparent rounded-md py-3 px-8 font-medium text-white hover:bg-black"
                   >
                     Shop Collection
                   </a>
+                    </Link>
+
+                 
                 </div>
               </div>
             </div>
@@ -192,12 +196,14 @@ export default function HomePage() {
             </div>
 
             <div className="mt-6 sm:hidden">
-              <a
-                href="/tm"
+<Link href={`/tm`}>             
+ <a
+            
                 className="block text-sm font-semibold text-black hover:text-black"
               >
                 Browse all favorites<span aria-hidden="true"> &rarr;</span>
               </a>
+</Link>
             </div>
           </div>
         </section>
