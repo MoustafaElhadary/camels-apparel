@@ -55,11 +55,11 @@ export default function Example() {
 
               <div className="flex flex-col text-right">
                 <span className="font-semibold text-xs text-blue-300 ">
-                  6:00 PM
+                  11:00 AM
                 </span>
                 <span className=" font-normal text-2xl  text-white ">
                   {' '}
-                  Apr 8,2023
+                  Mar 24,2024
                 </span>
               </div>
             </div>
@@ -70,10 +70,10 @@ export default function Example() {
             <div className="flex flex-col text-left p-4">
               <div className="flex flex-col text-left">
                 <span className=" font-light  text-blue-300 uppercase">
-                  KASEYA CENTER (FORMERLY KNOWN AS MIAMI-DADE ARENA)
+                  HARD ROCK STADIUM
                 </span>
                 <span className=" font-light   text-white ">
-                  UFC 287 Miami
+                  Miami Open - Stadium Session 11
                 </span>
               </div>
               <div className="flex flex-row text-left justify-between  pt-2">
@@ -82,21 +82,21 @@ export default function Example() {
                     Section
                   </span>
                   <span className=" font-light uppercase   text-white ">
-                    105
+                    H
                   </span>
                 </div>
                 <div className="flex flex-col text-left">
                   <span className=" font-light uppercase  text-blue-300 ">
                     Row
                   </span>
-                  <span className=" font-light uppercase   text-white ">5</span>
+                  <span className=" font-light uppercase   text-white ">B</span>
                 </div>
                 <div className="flex flex-col text-left">
                   <span className=" font-light uppercase  text-blue-300 ">
                     Seat
                   </span>
                   <span className=" font-light uppercase   text-white ">
-                    24{' '}
+                    6{' '}
                   </span>
                 </div>
               </div>
@@ -105,7 +105,7 @@ export default function Example() {
                   Entry Info
                 </span>
                 <span className=" font-light   text-white uppercase">
-                  UPPER LEVEL
+                  SE GATE
                 </span>
               </div>
 
