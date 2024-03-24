@@ -13,7 +13,6 @@
     "types:generate-db": "npx openapi-typescript https://klknydmugjagsywbmkni.supabase.co/rest/v1/?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYzMjE2NzQ5NiwiZXhwIjoxOTQ3NzQzNDk2fQ.Swqyx0l9-EcvJLOzZPMC7KDwkmnlFarOw3rucXr8l5s --output types/supabase.ts"
   },
   "dependencies": {
-    "@apollo/client": "^3.4.13",
     "@brainhubeu/react-carousel": "^2.0.4",
     "@headlessui/react": "^1.3.0",
     "@heroicons/react": "^1.0.1",
